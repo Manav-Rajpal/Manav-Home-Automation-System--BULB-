@@ -1,0 +1,27 @@
+This project offers several notable features:
+
+1. Code Generation: The project allows you to create a fully functional system without the need to write any code.
+
+2. Standalone Operation: The project is designed to work independently without requiring an internet connection.
+
+3. ESP32 Compatibility: The project is specifically designed for ESP32 boards.
+
+4. Easy Installation: This project provides a straightforward process to install the firmware.
+
+5. Simple Configuration: The project features a user-friendly web interface to configure the project.
+
+6. Device Control: This project enables you to control devices such as relays through switches or web interface or mobile.
+
+7. Temperature and Humidity Monitoring: The project supports the integration of a DHT11 sensor
+
+8. IR Remote Control Integration: This project allows you to register any IR remote control with the system.
+
+9. Push and Switch Button Support: In addition to IR remote control, the project supports the use of push and switch buttons.
+
+10. Configuration File Management: The project provides functionality to delete and update the configuration file. 
+
+11. Flexibility and Scalability: The project supports multiple devices (up to 10 in the current version, with future updates     planned to support up to 20 devices), allowing you to control a wide range of appliances and systems.
+
+12. User Interaction and Feedback: The project offers a user-friendly interface with controls and real-time feedback.
+
+13. LED Indicator: LED indicator on the ESP32 board indicates system status and different operational modes.
